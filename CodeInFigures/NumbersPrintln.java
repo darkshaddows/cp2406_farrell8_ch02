@@ -7,6 +7,6 @@ public class NumbersPrintln
       System.out.print(billingDate);
       System.out.println(" of the month");
       System.out.println("Next bill: October " +
-         billingDate);
+              billingDate);
    }
 }
